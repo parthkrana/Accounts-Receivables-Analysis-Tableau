@@ -19,3 +19,5 @@ Here is a collection of several views on this dashboard allowing us to compare a
 
 ![Story Map](screenshots/image-six.png)
 This is a story put together in a sequential order to tell a data narrative, provide context, and demonstrate how decisions relate to outcomes. 
+
+### Learning Outcomes
