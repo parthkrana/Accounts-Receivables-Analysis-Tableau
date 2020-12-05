@@ -5,7 +5,7 @@ The purpose of this project was to extract data from an Excel file to create vis
 ## Images from Tableau   
 
 ![Invoice Amount and Country Codes](screenshots/image-one.png)
-The stacked line graph above fits well when we are working with the sum of Invoice Amount(y-axis) for Month of Invoice Date(x-axis) broken down to Country Codes). The color represents the Invoice Amount in green and red. The marks indicate each data point from Invoice Amount and Month of Invoice Date.
+The stacked line graph above fits well when we are working with the sum of Invoice Amount(y-axis) for Month of Invoice Date(x-axis) broken down to Country Codes. The color represents the Invoice Amount in green and red. The marks indicate each data point from Invoice Amount and Month of Invoice Date.
 
 ![Paperless Bill](screenshots/image-two.png)
 The bar graph above allows us to compare the sum of Number of Records of electronic billing and paper of 120 members including the sum for both. Each method is color coded and is filtered by Action(Month(Invoice Date), Country Code). 
