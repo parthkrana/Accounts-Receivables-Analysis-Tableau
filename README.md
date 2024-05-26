@@ -1,4 +1,4 @@
-# Account Receivables Project on Tableau for IS344
+# Account Receivables Project on Tableau -
 
 The purpose of this project was to extract data from an Excel file to create visuals such as work sheets, dashboards, and a story sequence of customers invoices. 
 
